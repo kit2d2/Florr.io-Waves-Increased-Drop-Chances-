@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyclic-software/florr.io-waves-increased-drop-chances.git"
+    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cyclic-software/florr.io-waves-increased-drop-chances/issues"
+    "url": "https://github.com/cyclic-software/starter-express-api/issues"
   },
-  "homepage": "https://github.com/cyclic-software/florr.io-waves-increased-drop-chances#readme",
+  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
