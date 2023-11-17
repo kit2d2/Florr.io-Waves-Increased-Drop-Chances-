@@ -1,4 +1,3 @@
-# LibreFlorr
-Open Source Version of florr.io
+# peak florr eye eeh eye oh
 
-TODO
+dm me on disco (kit2d2) if you can help me host this
